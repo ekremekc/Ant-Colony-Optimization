@@ -40,7 +40,8 @@ Implemented algorithm utilized and optimized the best tour among the 10 cities o
 
 ### Visulization of the Best Tour
 
-![gif](https://user-images.githubusercontent.com/65715006/92314265-76e0ce80-efcd-11ea-95c4-8e640d49c4e1.gif)
+![gif2](https://user-images.githubusercontent.com/65715006/92314360-91677780-efce-11ea-8b36-a9294e7d2906.gif)
+
 
 
 
