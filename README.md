@@ -18,7 +18,7 @@ Implemented code can be executed by using **aco.py** file. This file uses distan
 | İstanbul   | 782   | 243   | 453    | 1111      | 1357       | 1139  | 1198     | 111     | 0        | 325       |
 | Eskişehir  | 499   | 152   | 233    | 874       | 1121       | 881   | 962      | 214     | 325      | 0         |
 
-<img src="https://user-images.githubusercontent.com/65715006/92313913-0637b300-efc9-11ea-81e4-67a50e9ee397.png" alt="centered image" height="750" width="900"/>
+<img src="https://user-images.githubusercontent.com/65715006/92313913-0637b300-efc9-11ea-81e4-67a50e9ee397.png" alt="centered image" height="500" width="625"/>
 
 ## Building Animation
 
