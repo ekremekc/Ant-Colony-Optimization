@@ -38,6 +38,9 @@ Implemented algorithm utilized and optimized the best tour among the 10 cities o
 | Kocaeli    | 40.7654 | 29.9408 |
 | Adiyaman   | 37.7636 | 38.2773 |
 
-![gif](https://user-images.githubusercontent.com/65715006/92314215-f4580f00-efcc-11ea-960d-5fa944774ca0.gif)
+### Visulization of the Best Tour
+
+![gif](https://user-images.githubusercontent.com/65715006/92314265-76e0ce80-efcd-11ea-95c4-8e640d49c4e1.gif)
+
 
 
