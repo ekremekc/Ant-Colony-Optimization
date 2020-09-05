@@ -37,3 +37,6 @@ Implemented algorithm utilized and optimized the best tour among the 10 cities o
 | Diyarbakir | 37.925  | 40.211  |
 | Kocaeli    | 40.7654 | 29.9408 |
 | Adiyaman   | 37.7636 | 38.2773 |
+
+![gif](https://user-images.githubusercontent.com/65715006/92314156-0ab19b00-efcc-11ea-8c73-1247148c1d4a.gif)
+
