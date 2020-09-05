@@ -3,6 +3,8 @@ This repository includes Travelling Salesman problem implementation of Ant Colon
 
 Implemented code can be executed by using **aco.py** file. This file uses distance **matrix from aco_distances.xlsx** and creates pheromone matrix. Then by using probability analysis, the next city is selected by using quite popular **roulette wheel** method based on the updated pheromone matrix for each city. At the end of the each iteration, best ant route is saved and displayed as a plot.
 
+### Distance Matrix
+
 |            | Muğla | Bursa | Ankara | Gaziantep | Diyarbakır | Hatay | Adıyaman | Kocaeli | İstanbul | Eskişehir |
 |------------|-------|-------|--------|-----------|------------|-------|----------|---------|----------|-----------|
 | Muğla      | 0     | 543   | 619    | 1058      | 1371       | 1037  | 1181     | 671     | 782      | 499       |
@@ -16,13 +18,13 @@ Implemented code can be executed by using **aco.py** file. This file uses distan
 | İstanbul   | 782   | 243   | 453    | 1111      | 1357       | 1139  | 1198     | 111     | 0        | 325       |
 | Eskişehir  | 499   | 152   | 233    | 874       | 1121       | 881   | 962      | 214     | 325      | 0         |
 
-![aco](https://user-images.githubusercontent.com/65715006/92313913-0637b300-efc9-11ea-81e4-67a50e9ee397.png)=250x250
+![aco](https://user-images.githubusercontent.com/65715006/92313913-0637b300-efc9-11ea-81e4-67a50e9ee397.png)=50x50
 
 ## Building Animation
 
 Implemented algorithm utilized and optimized the best tour among the 10 cities of Turkey. To build an animation turtle graphic package has been used. The GPS coordinates of each cities are pulled from **coordinates.xlsx** excel file by using **anim.py** Python script.
 
-
+### GPS Coordinates of Relevant Cities
 | Cities     | N       | E       |
 |------------|---------|---------|
 | Mugla      | 37.2154 | 28.3634 |
